@@ -9,10 +9,10 @@ Estudiante de **Negocios Digitales** en la Universidad de San Andrés (me recibo
 
 ## Con qué trabajo
 
-**Front-end** — TypeScript, React, Next.js, React Native, Tailwind
-**Back-end** — Node.js, Express, PostgreSQL, MySQL
-**Diseño** — Figma, design systems, accesibilidad (WCAG)
-**Testing** — Vitest, Playwright
+- **Front-end** — TypeScript, React, Next.js, React Native, Tailwind
+- **Back-end** — Node.js, Express, PostgreSQL, MySQL
+- **Diseño** — Figma, design systems, accesibilidad (WCAG)
+- **Testing** — Vitest, Playwright
 
 ## Dónde encontrarme
 
