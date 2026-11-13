@@ -16,4 +16,4 @@ Estudiante de **Negocios Digitales** en la Universidad de San Andrés (me recibo
 
 ## Dónde encontrarme
 
-[LinkedIn](https://www.linkedin.com/in/timoteo-martin-herrera-a77771234) · timoherrera13@gmail.com
+[LinkedIn](https://www.linkedin.com/in/timoteo-martín-herrera-a77771234) · timoherrera13@gmail.com
